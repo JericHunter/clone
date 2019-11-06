@@ -1,0 +1,28 @@
+ body {
+  background-color:white;
+  justify-content: center;
+}
+.edit-img{
+    width: 80%;
+    height: 500px;
+}
+.navbar-expand{
+    background-color: white;
+}
+.jumbotron {
+  height:100%;
+  width:10%;
+}
+.container {
+  width:1025px;
+}
+.jumbotron .container {
+  max-width: 100%;
+}
+.background-img {
+  background-image: url("Microsoft-Black-Friday-Sale.jpg");
+  background-repeat: no-repeat;
+
+  padding-top:100px;
+  padding-bottom:300px;
+}
